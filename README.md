@@ -3,7 +3,10 @@
 ![E-commerce SQL Project](https://img.shields.io/badge/E--Commerce-SQL%20Analytics-darkgreen?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
-![Project Banner](amazon.jpg)
+<p align="center">
+  <img src="images/amazon.jpg" alt="Project Banner" width="80%">
+</p>
+
 
  #
 A comprehensive **PostgreSQL project** analyzing sales, revenue, inventory, and customer performance for an **E-commerce Business**.  
