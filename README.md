@@ -47,7 +47,7 @@ Each query focuses on solving key **business challenges** like revenue tracking,
 |------------|-------------|
 | **Database** | PostgreSQL |
 | **Language** | SQL (PL/pgSQL for procedure) |
-| **Tools Used** | pgAdmin 4 / DBeaver / psql |
+| **Tools Used** | pgAdmin 4 |
 | **Concepts** | Joins, Aggregation, Window Functions, Subqueries, CTEs, Procedures, Ranking |
 
 ---
