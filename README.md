@@ -4,7 +4,7 @@
 
 ---
 <p align="center">
-  <img src="amazon.jpg" alt="Project Banner" width="80%">
+  <img src="amazon.jpg" alt="Project Banner" width="100%">
 </p>
 
 
