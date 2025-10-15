@@ -3,7 +3,8 @@
 ![E-commerce SQL Project](https://img.shields.io/badge/E--Commerce-SQL%20Analytics-darkgreen?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
-![Banner Image](https://github.com/najirh/Amazon-Sales-Analysis-using-SQL-B4/blob/main/amazon.jpeg)
+![Banner Image](https://github.com/najirh/Amazon-Sales-Analysis-using-SQL-B4/blob/main/amazon.jpg)
+ #
 A comprehensive **PostgreSQL project** analyzing sales, revenue, inventory, and customer performance for an **E-commerce Business**.  
 The project includes **20 advanced SQL business insights** and a **stored procedure** that automates inventory updates after every sale.
 
